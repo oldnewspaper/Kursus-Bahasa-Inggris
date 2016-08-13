@@ -5,7 +5,6 @@ Kursus dan kamus disajikan secara gratis oleh Sekolah Pintar untuk mereka yang i
 
 Metode pembelajaran melalui kursus dan dilengkapi dengan **[Kamus Bahasa Inggris][1]** adalah merupakan metode yang sangat praktis untuk belajar bahsa Inggris. Begitu praktisnya, sehingga kebanyakan orang yang ingin belajar bahasa Inggris memilih belajar melalui kursus di Sekolah PINTAR.
 
-Source: **[OLD NEWSPAPER][2]**
+Source: **[OLD NEWSPAPER][1]**
 
-  [1]: http://ferry-bachtiar.blogspot.com/2015/10/bahasa-inggris.html
-  [2]: http://ferry-bachtiar.blogspot.com/
+  [1]: http://ferry-bachtiar.blogspot.com/
